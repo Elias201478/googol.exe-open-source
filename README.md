@@ -6,3 +6,5 @@ and you also cant make the malware private.
 respect my code please.
 
 this malware is also made by gabrodev and x0rliners/cattyx0r.
+credits to: ultradasher965 for error drawing icons and the zooming screen. 
+it only works in windows xp.
