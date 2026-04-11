@@ -29,5 +29,6 @@ credits to: ultradasher965 for error drawing icons and the zooming screen.
 it only works in windows xp.
 
 # 🎬Googol Showcase🎬
-https://www.youtube.com/watch?v=UFyh7VBC-dg
+old version: https://www.youtube.com/watch?v=UFyh7VBC-dg
+new version with 1.5 version: https://www.youtube.com/watch?v=SqGNBq9C6_A
 also, have fun testing the malware by yourself! (:
