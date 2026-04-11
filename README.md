@@ -5,7 +5,7 @@ it can spawn: app payloads/spam errors or just gdi payloads.
 # important!!! ⚠️
 this program is very harmful. this will cause data loss and makes your computer likely unbootable.
 This software also displays flashing lights and plays loud sounds, so if you have a photosensitive disease like epilepsy, 
-don't run this or watch any videos about it for your safety.
+don't run this or watch any videos about it for your safety and your eyes.
 
 # note for skidders ☢️( ◡̀_◡́)☢️
 if you take the whole code or all gdi or every payloads youll have to make it open-source and give me credit.
