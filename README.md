@@ -29,4 +29,4 @@ it only works in windows xp.
 
 # 🎬Googol Showcase🎬
 https://www.youtube.com/watch?v=UFyh7VBC-dg
-also, have fun testing the malware by yourself (:
+also, have fun testing the malware by yourself! (:
