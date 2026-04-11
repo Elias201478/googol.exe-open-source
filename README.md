@@ -1,6 +1,7 @@
 # what is googol.exe❓
 googol is an GDI Trojan without warnings.
 it can spawn: app payloads/spam errors or just gdi payloads.
+it only works in windows xp to start the gdi 7th payload.
 
 # important!!! ⚠️
 this program is very harmful. this will cause your computer to crash and you cannot restart it.
