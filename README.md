@@ -25,8 +25,7 @@ respect my code please.
 
 # Credits/Collab 🤝
 this malware is also made by gabrodev and x0rliners/cattyx0r.
-credits to: ultradasher965 for error drawing icons and the zooming screen. 
-it only works in windows xp.
+credits to: ultradasher965 for zooming screen.
 
 # 🎬Googol Showcase🎬
 old version: https://www.youtube.com/watch?v=UFyh7VBC-dg
