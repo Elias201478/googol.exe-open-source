@@ -19,7 +19,7 @@ here is the gdi payloads i made. this has destructive payloads.
 
 # note for skidders ☢️( ◡̀_◡́)☢️
 if you take the whole code or all gdi or every payloads youll have to make it open-source and give me credit.
-if you dont then you are violating my malware source.
+if you dont then you are breaking the terms form the license or skidding!
 and you also cant make the malware private.
 respect my code please.
 
