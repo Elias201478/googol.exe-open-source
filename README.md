@@ -11,7 +11,7 @@ don't run this or watch any videos about it for your safety and your eyes.
 # 📌 Important note
 you many find bugs in windows 7
 also i recommend windows xp to remove the bugs or it will be fixable.
-but someone skids my trojan without giving credits so, i deicded to put GNU/GPL it in.
+but someone skids my trojan without giving credits so, i decided to put GNU/GPL it in.
 
 # payloads i made ⚙️
 this program is made in c++.
