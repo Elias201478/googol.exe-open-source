@@ -8,6 +8,11 @@ this program is very harmful. this will cause your computer to crash and you can
 This software also displays flashing lights and plays loud sounds, so if you have a photosensitive disease like epilepsy, 
 don't run this or watch any videos about it for your safety and your eyes.
 
+# 📌 Important note
+you many find bugs in windows 7
+also i recommend windows xp to remove the bugs or it will be fixable.
+but someone skids my trojan without giving credits so, i deicded to put GNU/GPL it in.
+
 # payloads i made ⚙️
 this program is made in c++.
 i modified the error icons form ultradasher so it can look like awesome.
