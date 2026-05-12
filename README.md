@@ -18,8 +18,11 @@ here is the gdi payloads i made. this has destructive payloads.
 <img width="670" height="421" alt="image" src="https://github.com/user-attachments/assets/f7a62b8e-c3d5-416a-8d12-bf714f7eed21" />
 
 # note for skidders ☢️( ◡̀_◡́)☢️
-if you take the whole code or all gdi or every payloads youll have to make it open-source and give me credit.
-if you dont then you are breaking the terms form the license or skidding!
+
+i heard someone skids my trojan or my payloads so, i feel sad about it.
+
+however, if you take the whole code or all gdi or every payloads youll have to make it open-source and give me credit.
+or if your skidding any gdi effect or **i don't able you!** and admit that you are breaking the terms form the license!
 and you also cant make the malware private.
 respect my code please.
 
