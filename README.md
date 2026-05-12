@@ -9,7 +9,7 @@ This software also displays flashing lights and plays loud sounds, so if you hav
 don't run this or watch any videos about it for your safety and your eyes.
 
 # 📌 Important note
-you many find bugs in windows 7
+using windows 7 find bugs or stop working the gdi payload.
 also i recommend windows xp to remove the bugs or it will be fixable.
 but someone skids my trojan without giving credits so, i decided to put GNU/GPL it in.
 
