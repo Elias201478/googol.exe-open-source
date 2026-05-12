@@ -26,7 +26,7 @@ here is the gdi payloads i made. this has destructive payloads.
 
 i heard someone skids my trojan or my payloads so, i feel sad about it.
 
-however, if you take the whole code or all gdi or every payloads youll have to make it open-source With GPL 3.0/GNU and give me credit.
+however, if you take any part of the code you'll have to Make the entire source code of your project available to everyone With GPL 3.0/GNU and give me credit.
 or if your skidding any gdi effect or **i don't able you!** and admit that you are breaking the terms form the license!
 and you also cant make the malware private.
 respect my code please.
